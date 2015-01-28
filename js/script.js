@@ -1,1 +1,3 @@
-alert('whoa.');
+$(document).ready(function() {
+
+});
